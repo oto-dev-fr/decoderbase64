@@ -18,7 +18,7 @@ This script is a simple Base64 token decoder written in Python. It takes a token
 4. Run the script using Python:
 
     ```bash
-    python script_name.py
+    python decoder.py
     ```
 
 5. When prompted, enter a token in the format `hash:base64`.
